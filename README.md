@@ -1,6 +1,6 @@
 # Quiz-App
 
-Python Quiz App using questions from the open source [Open Trivia Database](https://opentdb.com/)
+Python GUI Quiz App using questions from the open source [Open Trivia Database](https://opentdb.com/)
 
 ## Requirements
 
