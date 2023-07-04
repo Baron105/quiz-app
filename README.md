@@ -20,6 +20,8 @@ python3 and tkinter, requests, json, random, html, pyttsx3 modules and a working
 
 ## Note
 
+running quiz.py creates a data.json file which contains all fetched questions and answers, they can be used for review after the quiz
+
 main.py is a CLI version and gui.py is a basic GUI version of quiz.py
 
 they are not required to run the quiz app
