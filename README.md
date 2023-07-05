@@ -10,9 +10,7 @@ python3 and tkinter, requests, json, random, html, pyttsx3 modules and a working
 
 Ensure that you have python3 and pip installed on your system
 
-Run the following command in the terminal
-
-```pip install requests pyttsx3```
+> Run the following command in the terminal ```pip install requests pyttsx3```
 
 ## Usage
 
