@@ -15,9 +15,13 @@ Ensure that you have python3 and pip installed on your system
 ## Usage
 
 > Run the following command in the terminal ```python3 quiz.py```
+
 > Enter the number of questions you want to answer, the difficulty level and the category of questions and click on start button
+
 > Use the radio buttons to select the answers of the question and click on next button to go to the next question
+
 > You may quit the quiz at any time by clicking on the quit button
+
 > At the end of the quiz the score would be displayed
 
 ## Note
