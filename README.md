@@ -6,6 +6,14 @@ Python Quiz App using questions from the open source [Open Trivia Database](http
 
 python3 and tkinter, requests, json, random, html, pyttsx3 modules and a working internet connection to fetch the questions from the database
 
+## Installation (Skip if modules are already installed)
+
+Ensure that you have python3 and pip installed on your system
+
+Run the following command in the terminal
+
+```pip install requests pyttsx3```
+
 ## Usage
 
 Run the following command in the terminal
